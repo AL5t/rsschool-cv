@@ -8,3 +8,6 @@ My goal is to become a qualified front-end developer. I have no experience as a 
 ## Education
 * Bachelor's degree in Law
 * Master's degree in Intellectual property management (patent engineer)
+## Languages
+* English - B1
+* French - A2
