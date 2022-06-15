@@ -1,1 +1,1 @@
-https://AL5t.github.io/rsschool-cv/index
+https://AL5t.github.io/rsschool-cv
